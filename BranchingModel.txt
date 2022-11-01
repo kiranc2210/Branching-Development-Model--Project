@@ -1,5 +1,10 @@
 Production Branch -- First Checkin for Production
+<<<<<<< HEAD
 Feature1 Branch -- First Checkin for Feature1
 Feature1 Branch -- Second Checkin for Feature1
 Feature1 Branch -- Third Checkin for Feature1
 Feature2 Branch -- First Checkin for Feature1
+=======
+Feature2 Branch -- First Checkin for Feature2
+Feature2 Branch -- Second Checkin for Feature2
+>>>>>>> cd46b13 (Second checkin for feature2)
