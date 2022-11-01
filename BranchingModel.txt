@@ -7,3 +7,4 @@ Feature2 Branch -- First Checkin for Feature2
 Feature2 Branch -- Second Checkin for Feature2
 feature2 Branch -- Third Checkin for Feature2
 Feature1 Branch -- fourth Checkin for Feature1 as per Setp6
+HOTFIX Branch -- first Checkin for HOSTFIX as per Setp7
